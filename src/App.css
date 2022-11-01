@@ -1,0 +1,22 @@
+.logo{
+    width:50px;
+    height:50px;
+    cursor:pointer;
+}
+.video{
+    display:flex;
+    justify-content:'space-between';
+}
+.videoplayer{
+    flex:6
+}
+.homepage{
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+}
+.sidebar{
+    flex-direction:row;
+    flex:4;
+}
